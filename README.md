@@ -6,7 +6,7 @@ The site has some style rules to begin with. You will improve the layout and pos
 
 ## Finished Website
 
-![image](https://github.com/abemsq/braodway-website/blob/master/image.png)
+![image](https://github.com/abemsq/broadway-website/blob/master/image.png)
 
 ## HTML
 ```
